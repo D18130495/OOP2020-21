@@ -39,7 +39,8 @@ class WordCloud:
         fo.close()
 
 
-    # opens the input file gettisburg.txt
+
+    #opens the input file gettisburg.txt
     # remember to open in in the correct mode
     # reads the file line by line
     # creates the dictionary containing the word itself
