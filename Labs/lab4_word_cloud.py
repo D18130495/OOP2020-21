@@ -61,4 +61,5 @@ class WordCloud:
         </body>\
         </html>')
 
+
 wc = WordCloud()
