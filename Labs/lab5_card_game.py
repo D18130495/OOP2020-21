@@ -13,6 +13,7 @@ from queue import Queue
 from random import shuffle
 
 
+
 class CardGame():
 
     # initialises the application
