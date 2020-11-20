@@ -13,7 +13,10 @@ from queue import Queue
 from random import shuffle
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> upstream/master
 class CardGame():
 
     # initialises the application
