@@ -167,13 +167,13 @@ class WordScramble(WordGames): # you implement this and provide docstrings
 # print(WordGames.__doc__)
 
 # Create an instances of the classes here:
-# wg = WordGames()
-# wg.word_play()
+wg = WordGames()
+wg.word_play()
 
-# wd = WordDuplication()
-# wd.word_play()
+wd = WordDuplication()
+wd.word_play()
 
-print(WordScramble.__doc__)
-# ws = WordScramble()
-# ws.word_play()
+#print(WordScramble.__doc__)
+ws = WordScramble()
+ws.word_play()
 
