@@ -2,7 +2,8 @@
 # academic year: 2020-21
 # author: B. Schoen-Phelan
 # date: 13-11-2020
-# purpose: A solution to the word games lab exercise
+# purpose: A solution to the word games lab exercise 好
+
 
 
 class Student:
